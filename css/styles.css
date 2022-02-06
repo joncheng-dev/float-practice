@@ -1,0 +1,15 @@
+.column {
+  float: left;
+  width: 32%;
+  background-color: lightblue;
+  margin: 1px 3px;
+}
+
+body {
+  background-color: lavender;
+}
+
+p {
+  font-size: x-large;
+  text-align: center;
+}
